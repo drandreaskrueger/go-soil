@@ -41,4 +41,4 @@ func NewDefaultGenesisReader() (io.Reader, error) {
 	//"alloc": {}   
 //}
 
-const defaultGenesisBlock = "H4sIAAAJbogA/6yQvQqDMBCA5/oUkrlD1POnnTt06EtczqQGTBSTgkV89woaSkEKhX5jct8XclMULzDbWZLsHDM+8g8gZcd1xGsjnUfTb2PhvMdBWn9F1+z5vxO6cvQDXtDjmgUBmBOXNVCWJyKhAvITVliqVNSq4CVABlRWQb+ju2mj/WqrjXBba6U0PVr/3Orvd40em79/hjptBbrdFX+1DwzbtqPFm+YlFM3RCwAA//8BAAD//wUF2a+yAQAA"
+const defaultGenesisBlock = "H4sIAAAJbogA/6yRTWvEIBCGz8mvEM97UDNq7LmHHvonZvzoCvlYNhZSlvz3piShFLaFhb5HnecZfL3VbA0fxsFH/sS4mMWPgOKnbaTkPk4F+8s+dpxf8BqH8oLT+R7/eA5vnMsVn7HgpgUC1F7EAL7RkqQ3oB22aJOikIywAA142x74G06vuc9lo9Oe4zbklLJ/78rHbv/e2+f5/O+P8WMeCKe7Ff9JVxy7bvQrd6uramVtAtuQJpIYk44OE1mhrHONExS0EDI5oX34Ihgn7HD/Wfn7GracNnljFARjoXUalAEnUotq7TmGgEKTdEYbDOEh+VJXC2P1Un8CAAD//wEAAP//LgHeTmsC"
