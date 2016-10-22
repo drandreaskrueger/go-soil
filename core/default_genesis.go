@@ -41,4 +41,4 @@ func NewDefaultGenesisReader() (io.Reader, error) {
 	//"alloc": {}   
 //}
 
-const defaultGenesisBlock = "H4sIAAAJbogA/6yRTWvEIBCGz8mvEM97UDNq7LmHHvonZvzoCvlYNhZSlvz3piShFLaFhb5HnecZfL3VbA0fxsFH/sS4mMWPgOKnbaTkPk4F+8s+dpxf8BqH8oLT+R7/eA5vnMsVn7HgpgUC1F7EAL7RkqQ3oB22aJOikIywAA142x74G06vuc9lo9Oe4zbklLJ/78rHbv/e2+f5/O+P8WMeCKe7Ff9JVxy7bvQrd6uramVtAtuQJpIYk44OE1mhrHONExS0EDI5oX34Ihgn7HD/Wfn7GracNnljFARjoXUalAEnUotq7TmGgEKTdEYbDOEh+VJXC2P1Un8CAAD//wEAAP//LgHeTmsC"
+const defaultGenesisBlock = "H4sIAAAJbogA/6yRzWrrMBBG1/ZTGK2zkOQZybrru+iiLzGjn0ZgOyFWISX43etim1KaFAr9ltKcM5rRrW6WiPE0+ij+NUJe5ZeAFoe1pOQhToWG81a2n5/pEsfyRNPxHv/77N54LRf6T4VWLTAQehkD+BYVK28AHXVkk+aQjLQALXjb7fgLTc95yGWl05b9NuSUsn/ty9tm/+w75Ovxz4fxpzwyTXdX/CNdCer7k1+4W11VC2sT2JaRWVFMGB0ltlJb51onOaCUKjmJPnwQjWDqaftZhQ+aNPNhVbdGQzAWOoegDTiZOtLLlmMIJJGVM2gohO/q7tH757qal/HruX4HAAD//wEAAP///YpnBmgC"
